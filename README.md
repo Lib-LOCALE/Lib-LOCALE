@@ -9,4 +9,4 @@
 ## 🛠️ Mes connaissances
 
     
-[![https://www.linkedin.com/in/mah%C3%A9-anthony/](https://skills.thijs.gg/icons?i=html,css,js,svelte,php,wordpress,git,figma,mysql&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,svelte,php,wordpress,git,figma,mysql&theme=dark)](https://www.linkedin.com/in/mah%C3%A9-anthony/)

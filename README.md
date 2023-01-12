@@ -9,4 +9,4 @@
 ## 🛠️ Mes connaissances
 
     
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,svelte,php,wordpress,git,figma,mysql&theme=light)](https://skills.thijs.gg)
+[![](https://skills.thijs.gg/icons?i=html,css,js,svelte,php,wordpress,git,figma,mysql&theme=light)](https://skills.thijs.gg)

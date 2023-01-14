@@ -1,4 +1,4 @@
-<h1 align="center">Salut, je suis Anthony Mahé</h1>
+<h1 align="center">Salut👋, je suis Anthony Mahé</h1>
 <h3 align="center">Un passioné d'informatique</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anthonymahe&label=Profile%20views&color=0e75b6&style=flat" alt="anthonymahe" /> </p>

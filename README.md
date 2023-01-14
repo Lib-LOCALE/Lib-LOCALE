@@ -28,6 +28,6 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
- <a href="https://directus.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Directus_Color_Logo_Vector.svg/512px-Directus_Color_Logo_Vector.svg" alt="directus" width="40" height="40"/> </a>
+ <a href="https://directus.io" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/small_square/small_square_7b9ca34f710ccffcc5a991dd783b51d6/directus.png" alt="directus" width="40" height="40"/> </a>
 </p>
 

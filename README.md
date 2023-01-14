@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anthonymahe&label=Profile%20views&color=0e75b6&style=flat" alt="anthonymahe" /> </p>
 
-- 🌱 Je suis actuellement en formation <a href="https://oclock.io/" target="blank"><img align="center" src="https://zupimages.net/up/23/02/x4kl.png" alt="O'clock" height="30" width="40" /></a>
+- 🌱 Je suis actuellement en formation <a href="https://oclock.io/" target="blank"><img align="center" src="https://zupimages.net/up/23/02/x4kl.png" alt="O'clock" height="30" width="30" /></a>
 
 
 - 📫 Comment me contacter **anthony.mahe@ik.me**

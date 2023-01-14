@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonymahe&label=Profile%20views&color=0e75b6&style=flat" alt="anthonymahe" /> </p>
 
-- 🌱 J'apprend actuellement **EN FORMATION CHEZ O'CLOCK**
+- 🌱 Je suis actuellement en formation **CHEZ O'CLOCK**
 
 - 📫 Comment me contacter **anthony.mahe@ik.me**
 

@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonymahe&label=Profile%20views&color=0e75b6&style=flat" alt="anthonymahe" /> </p>
 
-- 🔭 Je travaille actuellement sur **Projet d'apothéose O'Clock**
-
-- 🌱 J'apprend actuellement **JS SVELTE**
+- 🌱 J'apprend actuellement **EN FORMATION CHEZ O'CLOCK**
 
 - 📫 Comment me contacter **anthony.mahe@ik.me**
 

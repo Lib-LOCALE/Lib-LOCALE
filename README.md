@@ -32,5 +32,6 @@
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 <a href="https://directus.io" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/small_square/small_square_7b9ca34f710ccffcc5a991dd783b51d6/directus.png" alt="directus" width="40" height="40"/> </a>
 <a href="https://bubble.io" target="_blank" rel="noreferrer"> <img src="https://zupimages.net/up/23/02/7yea.jpg" alt="Bubble App" width="40" height="40"/> </a>
+<a href="https://fr.wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452136/wordpress.svg" alt="Wordpress" width="40" height="40"/> </a>
 </p>
 

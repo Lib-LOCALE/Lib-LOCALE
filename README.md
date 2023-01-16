@@ -5,9 +5,6 @@
 
 - 🌱 Je suis actuellement en formation <a href="https://oclock.io/" target="blank"><img align="center" src="https://zupimages.net/up/23/02/x4kl.png" alt="O'clock" height="30" width="30" /></a>
 
-
-- 📫 Comment me contacter **anthony.mahe@ik.me**
-
 <h3 align="left">Retrouve moi ici :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mah%c3%a9-anthony/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mah%c3%a9-anthony/" height="30" width="40" /></a>

@@ -25,10 +25,7 @@
 <p align="left"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 <a href="https://directus.io" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/small_square/small_square_7b9ca34f710ccffcc5a991dd783b51d6/directus.png" alt="directus" width="40" height="40"/> </a>
-<a href="https://bubble.io" target="_blank" rel="noreferrer"> <img src="https://zupimages.net/up/23/02/7yea.jpg" alt="Bubble App" width="40" height="40"/> </a>
 <a href="https://fr.wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452136/wordpress.svg" alt="Wordpress" width="40" height="40"/> </a>
 </p>
 

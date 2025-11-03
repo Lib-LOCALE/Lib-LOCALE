@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>🇫🇷 QA Engineer by day, passionate developer by night • Open-source advocate • Privacy-first mindset</em>
+  <img src="https://flagcdn.com/16x12/fr.png" alt="France" /> <em>QA Engineer by day, passionate developer by night • Open-source advocate • Privacy-first mindset</em>
 </p>
 
 ---
@@ -37,12 +37,13 @@ Lightweight (~4.6 MB) **open-source** desktop app combining **Tauri**, **SvelteK
 
 ## 🚀 About Me
 
-QA Engineer with a passion for building things. I love exploring modern technologies in my free time, with a particular interest in **Artificial Intelligence** and performance-driven development.
+<img src="https://flagcdn.com/24x18/fr.png" alt="France" /> QA Engineer from France with a passion for building things. I love exploring modern technologies in my free time, with a strong focus on **open-source contributions** and **privacy-respecting applications**.
 
 - 🤖 **AI Enthusiast**: Experience with LLMs, machine learning, and AI integration
+- 🔓 **Open-Source Advocate**: Believer in transparent, community-driven development
+- 🔒 **Privacy-First**: Building GDPR-compliant, user-respecting applications
 - 🎮 Game development with **Godot Engine**
 - 🌐 Building modern web applications
-- 📊 Database design with **PostgreSQL**
 - ⚡ Always looking for the next technical challenge
 
 ---

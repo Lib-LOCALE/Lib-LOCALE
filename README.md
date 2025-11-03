@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=lut+%F0%9F%91%8B%2C+je+suis+Anthony+Mah%C3%A9;Développeur+Full+Stack;Passionné+d'IA+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=lut+%F0%9F%91%8B%2C+je+suis+Anthony+Mah%C3%A9;Chargé+de+recette+MOE;Passionné+de+développement+et+d'IA+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Développeur passionné par l'innovation technologique, l'intelligence artificielle et la création d'expériences utilisateur exceptionnelles</em>
+  <em>Chargé de recette MOE passionné par le développement, l'innovation technologique et l'intelligence artificielle</em>
 </p>
 
 ---
@@ -42,13 +42,13 @@ Application desktop **open source** ultra-légère (~4.6 MB) combinant **Tauri**
 
 ## 🚀 À propos de moi
 
-Passionné d'informatique avec une expertise particulière en **Intelligence Artificielle** et développement moderne. J'explore constamment les dernières technologies pour créer des solutions innovantes et performantes.
+Chargé de recette MOE le jour, développeur passionné le soir ! J'explore les technologies modernes par plaisir et curiosité, avec une expertise particulière en **Intelligence Artificielle**.
 
 - 🤖 **Spécialiste IA** : Expérience avec les modèles de langage, machine learning et intégration d'IA dans les applications
 - 🎮 Développement de jeux avec **Godot Engine**
-- 🌐 Architecture web moderne et APIs
+- 🌐 Création d'applications web modernes
 - 📊 Gestion de données avec **PostgreSQL**
-- ⚡ Performance et optimisation
+- ⚡ Toujours à la recherche de nouveaux défis techniques
 
 ---
 

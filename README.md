@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>QA Engineer by day, passionate developer by night. Exploring modern tech, AI, and building cool stuff for fun.</em>
+  <em>🇫🇷 QA Engineer by day, passionate developer by night • Open-source advocate • Privacy-first mindset</em>
 </p>
 
 ---

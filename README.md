@@ -1,20 +1,98 @@
-<h1 align="center">Salut👋, je suis Anthony Mahé</h1>
-<h3 align="center">Un passioné d'informatique</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Salut+%F0%9F%91%8B%2C+je+suis+Anthony+Mah%C3%A9;Développeur+Full+Stack;Passionné+d'IA+%F0%9F%A4%96" alt="Typing SVG" />
+</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anthonymahe&label=Profile%20views&color=0e75b6&style=flat" alt="anthonymahe" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anthonymahe&label=Visiteurs&color=00d9ff&style=for-the-badge" alt="anthonymahe" />
+</p>
 
-<h3 align="left">Retrouve moi ici :</h3>
+<p align="center">
+  <em>Développeur passionné par l'innovation technologique, l'intelligence artificielle et la création d'expériences utilisateur exceptionnelles</em>
+</p>
+
+---
+
+## 🚀 À propos de moi
+
+Passionné d'informatique avec une expertise particulière en **Intelligence Artificielle** et développement moderne. J'explore constamment les dernières technologies pour créer des solutions innovantes et performantes.
+
+- 🤖 **Spécialiste IA** : Expérience avec les modèles de langage, machine learning et intégration d'IA dans les applications
+- 🎮 Développement de jeux avec **Godot Engine**
+- 🌐 Architecture web moderne et APIs
+- 📊 Gestion de données avec **PostgreSQL**
+- ⚡ Performance et optimisation
+
+---
+
+## 🛠️ Stack Technique
+
+### Langages de Programmation
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mah%c3%a9-anthony/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mah%c3%a9-anthony/" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,rust" alt="langages" />
 </p>
 
-<h3 align="left">Langages de programmation :</h3>
-<p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.json.org/json-fr.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" alt="json" width="40" height="40"/> </a>
+- **Web** : HTML5, CSS3, JavaScript (ES6+)
+- **Systèmes** : Rust (performance et sécurité)
+- **Data** : JSON, SQL
 
-<h3 align="left">Framework :</h3>
-<a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> 
+### Frameworks & Bibliothèques
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=svelte" alt="frameworks" />
 </p>
 
+- **Frontend** : Svelte/SvelteKit (réactivité et performance)
+- **Game Engine** : Godot Engine
+
+### Bases de Données & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="databases" />
+</p>
+
+- **Bases de données** : PostgreSQL (relationnel, optimisation de requêtes)
+
+### Intelligence Artificielle
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LLMs-00D9FF?style=for-the-badge&logo=ai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
+</p>
+
+- Intégration de modèles de langage (LLMs)
+- Développement d'applications IA
+- Prompt engineering & fine-tuning
+- Automatisation intelligente
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonymahe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonymahe&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="streak" />
+</p>
+
+---
+
+## 🌐 Retrouve-moi ici
+
+<p align="left">
+  <a href="https://linkedin.com/in/anthony-mahe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/anthonymahe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" alt="footer" />
+</p>
+
+<p align="center">
+  <em>💡 "L'innovation distingue un leader d'un suiveur" - Steve Jobs</em>
+</p>

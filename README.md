@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Salut+%F0%9F%91%8B%2C+je+suis+Anthony+Mah%C3%A9;Développeur+Full+Stack;Passionné+d'IA+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=lut+%F0%9F%91%8B%2C+je+suis+Anthony+Mah%C3%A9;Développeur+Full+Stack;Passionné+d'IA+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,6 +9,34 @@
 <p align="center">
   <em>Développeur passionné par l'innovation technologique, l'intelligence artificielle et la création d'expériences utilisateur exceptionnelles</em>
 </p>
+
+---
+
+## 🔥 Projet Phare : MacGyver
+
+<div align="center">
+  
+### 🛠️ [MacGyver](https://github.com/AnthonyMahe/macgyver) - Suite d'outils de productivité
+
+[![Stars](https://img.shields.io/github/stars/AnthonyMahe/macgyver?style=for-the-badge&color=yellow)](https://github.com/AnthonyMahe/macgyver)
+[![License](https://img.shields.io/github/license/AnthonyMahe/macgyver?style=for-the-badge)](https://github.com/AnthonyMahe/macgyver/blob/main/LICENCE)
+[![Downloads](https://img.shields.io/github/downloads/AnthonyMahe/macgyver/total?style=for-the-badge&color=00D9FF)](https://github.com/AnthonyMahe/macgyver/releases)
+
+</div>
+
+Application desktop **open source** ultra-légère (~4.6 MB) combinant **Tauri**, **SvelteKit** et **Rust** pour une expérience utilisateur fluide et performante.
+
+**✨ Fonctionnalités :**
+- 🍅 **Timer Pomodoro** - Technique de concentration par cycles
+- 📝 **Notes Rapides** - Prise de notes instantanée
+- ✅ **TodoList** - Gestion de tâches simple et efficace
+- 🖼️ **Studio d'Images** - Conversion et manipulation d'images
+- 📄 **Manipulateur PDF** - Fusion et division de documents
+
+**🚀 Stack technique :**
+`Tauri` • `SvelteKit` • `TypeScript` • `Rust` • `Vite`
+
+**📦 [Télécharger la dernière version](https://github.com/AnthonyMahe/macgyver/releases)** (Windows & Linux)
 
 ---
 

@@ -12,26 +12,25 @@
 
 ---
 
-## 🔥 Featured Project: MacGyver
+## 🔥 Featured Project: OpenPomodoro
 
 <div align="center">
   
-### 🛠️ [MacGyver](https://github.com/AnthonyMahe/macgyver) - Productivity Tools Suite
-
-[![Stars](https://img.shields.io/github/stars/AnthonyMahe/macgyver?style=for-the-badge&color=yellow)](https://github.com/AnthonyMahe/macgyver)
-[![License](https://img.shields.io/github/license/AnthonyMahe/macgyver?style=for-the-badge)](https://github.com/AnthonyMahe/macgyver/blob/main/LICENCE)
-[![Downloads](https://img.shields.io/github/downloads/AnthonyMahe/macgyver/total?style=for-the-badge&color=00D9FF)](https://github.com/AnthonyMahe/macgyver/releases)
+### 🍅 [OpenPomodoro](https://github.com/AnthonyMahe/OpenPomodoro) - Modern Pomodoro Timer
+[![Stars](https://img.shields.io/github/stars/AnthonyMahe/OpenPomodoro?style=for-the-badge&color=yellow)](https://github.com/AnthonyMahe/OpenPomodoro)
+[![License](https://img.shields.io/github/license/AnthonyMahe/OpenPomodoro?style=for-the-badge)](https://github.com/AnthonyMahe/OpenPomodoro/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/AnthonyMahe/OpenPomodoro/total?style=for-the-badge&color=00D9FF)](https://github.com/AnthonyMahe/OpenPomodoro/releases)
 
 </div>
 
-Lightweight (~4.6 MB) **open-source** desktop app combining **Tauri**, **SvelteKit**, and **Rust** for a smooth, high-performance experience.
+A modern and intuitive **open-source** Pomodoro Timer application built with **Tauri 2** and **Svelte 5**. Stay focused, manage your tasks, and boost your productivity with a clean user interface.
 
 **✨ Features:**
-🍅 Pomodoro Timer • 📝 Quick Notes • ✅ TodoList • 🖼️ Image Studio • 📄 PDF Manipulator
+🍅 Customizable Timer • ✅ Integrated TODO List • 🌍 Multilingual (EN/FR/DE/ES/IT) • 🎨 Light/Dark Themes • 📚 Onboarding Flow
 
-**🚀 Tech Stack:** `Tauri` • `SvelteKit` • `TypeScript` • `Rust` • `Vite`
+**🚀 Tech Stack:** `Tauri 2` • `Svelte 5` • `TypeScript` • `Rust` • `Bun`
 
-**📦 [Download Latest Release](https://github.com/AnthonyMahe/macgyver/releases)** (Windows & Linux)
+**📦 [Download Latest Release](https://github.com/AnthonyMahe/OpenPomodoro/releases)** (Windows, Linux & macOS)
 
 ---
 
@@ -58,7 +57,7 @@ Lightweight (~4.6 MB) **open-source** desktop app combining **Tauri**, **SvelteK
 
 **Frameworks:** Svelte/SvelteKit • Tauri
 
-**Tools:** Godot Engine • PostgreSQL • Git
+**Tools:** Godot Engine • PostgreSQL • Git • Bun
 
 **AI/ML:** LLMs • Prompt Engineering • AI Integration
 

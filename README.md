@@ -12,25 +12,26 @@
 
 ---
 
-## 🔥 Featured Project: OpenPomodoro
+## 🔥 Featured Project: TomatoTask
 
 <div align="center">
   
-### 🍅 [OpenPomodoro](https://github.com/AnthonyMahe/OpenPomodoro) - Modern Pomodoro Timer
-[![Stars](https://img.shields.io/github/stars/AnthonyMahe/OpenPomodoro?style=for-the-badge&color=yellow)](https://github.com/AnthonyMahe/OpenPomodoro)
-[![License](https://img.shields.io/github/license/AnthonyMahe/OpenPomodoro?style=for-the-badge)](https://github.com/AnthonyMahe/OpenPomodoro/blob/main/LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/AnthonyMahe/OpenPomodoro/total?style=for-the-badge&color=00D9FF)](https://github.com/AnthonyMahe/OpenPomodoro/releases)
+### 🍅 [TomatoTask](https://github.com/AnthonyMahe/TomatoTask) - Modern Pomodoro Timer & Task Manager
+
+[![Stars](https://img.shields.io/github/stars/AnthonyMahe/TomatoTask?style=for-the-badge&color=yellow)](https://github.com/AnthonyMahe/TomatoTask)
+[![License](https://img.shields.io/github/license/AnthonyMahe/TomatoTask?style=for-the-badge)](https://github.com/AnthonyMahe/TomatoTask/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/AnthonyMahe/TomatoTask/total?style=for-the-badge&color=00D9FF)](https://github.com/AnthonyMahe/TomatoTask/releases)
 
 </div>
 
-A modern and intuitive **open-source** Pomodoro Timer application built with **Tauri 2** and **Svelte 5**. Stay focused, manage your tasks, and boost your productivity with a clean user interface.
+A modern and feature-rich **open-source** Pomodoro Timer application with advanced task management. Built with **Tauri 2** and **Svelte 5** using **Shadcn-svelte** components for a polished user experience.
 
 **✨ Features:**
-🍅 Customizable Timer • ✅ Integrated TODO List • 🌍 Multilingual (EN/FR/DE/ES/IT) • 🎨 Light/Dark Themes • 📚 Onboarding Flow
+🍅 Customizable Pomodoro Timer • ✅ Advanced Task Management • 📊 Daily & Weekly Statistics • 🎨 Color-coded Projects • 🌍 Multilingual (EN/FR/DE/ES/IT) • 🌓 Light/Dark Themes • ⌨️ Keyboard Shortcuts • 📦 Flatpak Distribution
 
-**🚀 Tech Stack:** `Tauri 2` • `Svelte 5` • `TypeScript` • `Rust` • `Bun`
+**🚀 Tech Stack:** `Tauri 2` • `Svelte 5` • `TypeScript` • `Rust` • `Shadcn-svelte`
 
-**📦 [Download Latest Release](https://github.com/AnthonyMahe/OpenPomodoro/releases)** (Windows, Linux & macOS)
+**📦 [Download Latest Release](https://github.com/AnthonyMahe/TomatoTask/releases)** (Windows & Linux - Flatpak coming to Flathub soon!)
 
 ---
 

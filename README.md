@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B;I'm+Anthony+Mah%C3%A9;QA+Engineer;Passionate+Developer+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B;I'm+Anthony+Mah%C3%A9;QA+Engineer;Passionate+Developer+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## 🔥 Featured Project: TomatoTask
+<h2 align="center">🔥 Featured Project: TomatoTask</h2>
 
 <div align="center">
   
@@ -24,47 +24,67 @@
 
 </div>
 
-A modern and feature-rich **open-source** Pomodoro Timer application with advanced task management. Built with **Tauri 2** and **Svelte 5** using **Shadcn-svelte** components for a polished user experience.
+<p align="center">
+  A modern and feature-rich <strong>open-source</strong> Pomodoro Timer application with advanced task management. Built with <strong>Tauri 2</strong> and <strong>Svelte 5</strong> using <strong>Shadcn-svelte</strong> components for a polished user experience.
+</p>
 
-**✨ Features:**
-🍅 Customizable Pomodoro Timer • ✅ Advanced Task Management • 📊 Daily & Weekly Statistics • 🎨 Color-coded Projects • 🌍 Multilingual (EN/FR/DE/ES/IT) • 🌓 Light/Dark Themes • ⌨️ Keyboard Shortcuts • 📦 Flatpak Distribution
+<p align="center">
+  <strong>✨ Features:</strong><br/>
+  🍅 Customizable Pomodoro Timer • ✅ Advanced Task Management • 📊 Daily & Weekly Statistics • 🎨 Color-coded Projects • 🌍 Multilingual (EN/FR/DE/ES/IT) • 🌓 Light/Dark Themes • ⌨️ Keyboard Shortcuts • 📦 Flatpak Distribution
+</p>
 
-**🚀 Tech Stack:** `Tauri 2` • `Svelte 5` • `TypeScript` • `Rust` • `Shadcn-svelte`
+<p align="center">
+  <strong>🚀 Tech Stack:</strong> <code>Tauri 2</code> • <code>Svelte 5</code> • <code>TypeScript</code> • <code>Rust</code> • <code>Shadcn-svelte</code>
+</p>
 
-**📦 [Download Latest Release](https://github.com/AnthonyMahe/TomatoTask/releases)** (Windows & Linux - Flatpak coming to Flathub soon!)
-
----
-
-## 🚀 About Me
-
-<img src="https://flagcdn.com/24x18/fr.png" alt="France" /> QA Engineer from France with a passion for building things. I love exploring modern technologies in my free time, with a strong focus on **open-source contributions** and **privacy-respecting applications**.
-
-- 🤖 **AI Enthusiast**: Experience with LLMs, machine learning, and AI integration
-- 🔓 **Open-Source Advocate**: Believer in transparent, community-driven development
-- 🔒 **Privacy-First**: Building GDPR-compliant, user-respecting applications
-- 🎮 Game development with **Godot Engine**
-- 🌐 Building modern web applications
-- ⚡ Always looking for the next technical challenge
+<p align="center">
+  <strong>📦 <a href="https://github.com/AnthonyMahe/TomatoTask/releases">Download Latest Release</a></strong> (Windows & Linux - Flatpak coming to Flathub soon!)
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🚀 About Me</h2>
 
-<p align="left">
+<p align="center">
+  <img src="https://flagcdn.com/24x18/fr.png" alt="France" /> QA Engineer from France with a passion for building things. I love exploring modern technologies in my free time, with a strong focus on <strong>open-source contributions</strong> and <strong>privacy-respecting applications</strong>.
+</p>
+
+<p align="center">
+  🤖 <strong>AI Enthusiast</strong>: Experience with LLMs, machine learning, and AI integration<br/>
+  🔓 <strong>Open-Source Advocate</strong>: Believer in transparent, community-driven development<br/>
+  🔒 <strong>Privacy-First</strong>: Building GDPR-compliant, user-respecting applications<br/>
+  🎮 Game development with <strong>Godot Engine</strong><br/>
+  🌐 Building modern web applications<br/>
+  ⚡ Always looking for the next technical challenge
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,rust,svelte,postgres,godot" alt="tech stack" />
 </p>
 
-**Languages:** HTML5 • CSS3 • JavaScript (ES6+) • Rust • SQL
+<p align="center">
+  <strong>Languages:</strong> HTML5 • CSS3 • JavaScript (ES6+) • Rust • SQL
+</p>
 
-**Frameworks:** Svelte/SvelteKit • Tauri
+<p align="center">
+  <strong>Frameworks:</strong> Svelte/SvelteKit • Tauri
+</p>
 
-**Tools:** Godot Engine • PostgreSQL • Git • Bun
+<p align="center">
+  <strong>Tools:</strong> Godot Engine • PostgreSQL • Git • Bun
+</p>
 
-**AI/ML:** LLMs • Prompt Engineering • AI Integration
+<p align="center">
+  <strong>AI/ML:</strong> LLMs • Prompt Engineering • AI Integration
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anthonymahe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="stats" />
@@ -76,9 +96,9 @@ A modern and feature-rich **open-source** Pomodoro Timer application with advanc
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/anthony-mahe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

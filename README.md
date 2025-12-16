@@ -12,7 +12,38 @@
 
 ---
 
-<h2 align="center">🔥 Featured Project: TomatoTask</h2>
+<h2 align="center">🔥 Featured Project: NewGAN Manager 26</h2>
+
+<div align="center">
+  
+### ⚽ [NewGAN Manager 26](https://github.com/AnthonyMahe/NewGAN-Manager-26) - Modern Face Generator for Football Manager 26
+
+[![Stars](https://img.shields.io/github/stars/AnthonyMahe/NewGAN-Manager-26?style=for-the-badge&color=yellow)](https://github.com/AnthonyMahe/NewGAN-Manager-26)
+[![License](https://img.shields.io/github/license/AnthonyMahe/NewGAN-Manager-26?style=for-the-badge)](https://github.com/AnthonyMahe/NewGAN-Manager-26/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/AnthonyMahe/NewGAN-Manager-26/total?style=for-the-badge&color=00D9FF)](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
+
+</div>
+
+<p align="center">
+  A modern face generator for Football Manager 26 newgens. A complete rewrite of the original NewGAN-Manager, rebuilt from scratch for improved performance and a modern UI.
+</p>
+
+<p align="center">
+  <strong>✨ Features:</strong><br/>
+  🎨 Modern UI • ⚡ Lightweight (Tauri) • 🛡️ Smart Validation • 🌍 8 Languages • 🔄 3 Generation Modes
+</p>
+
+<p align="center">
+  <strong>🚀 Tech Stack:</strong> <code>Tauri</code> • <code>Svelte 5</code> • <code>Rust</code> • <code>TypeScript</code>
+</p>
+
+<p align="center">
+  <strong>📦 <a href="https://github.com/AnthonyMahe/NewGAN-Manager-26/releases">Download Latest Release</a></strong> (Windows & Linux)
+</p>
+
+---
+
+<h2 align="center">🍅 Featured Project: TomatoTask</h2>
 
 <div align="center">
   

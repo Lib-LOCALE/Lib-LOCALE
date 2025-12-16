@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <strong>📦 <a href="https://github.com/AnthonyMahe/TomatoTask/releases">Download Latest Release</a></strong> (Windows & Linux - Flatpak coming to Flathub soon!)
+  <strong>📦 <a href="https://github.com/AnthonyMahe/TomatoTask/releases">Download Latest Release</a></strong> (Windows & Linux)
 </p>
 
 </div>

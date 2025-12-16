@@ -60,7 +60,7 @@
 
 <p align="center">
   <strong>✨ Features:</strong><br/>
-  🍅 Customizable Pomodoro Timer • ✅ Advanced Task Management • 📊 Daily & Weekly Statistics • 🎨 Color-coded Projects • 🌍 Multilingual (EN/FR/DE/ES/IT) • 🌓 Light/Dark Themes • ⌨️ Keyboard Shortcuts • 📦 Flatpak Distribution
+  🍅 Customizable Pomodoro Timer • ✅ Advanced Task Management • 📊 Daily & Weekly Statistics • 🎨 Color-coded Projects • 🌍 Multilingual (EN/FR/DE/ES/IT) • 🌓 Light/Dark Themes • ⌨️ Keyboard Shortcuts
 </p>
 
 <p align="center">

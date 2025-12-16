@@ -12,17 +12,16 @@
 
 ---
 
-<h2 align="center">🔥 Featured Project: NewGAN Manager 26</h2>
+<h2 align="center">🔥 Featured Projects</h2>
 
 <div align="center">
-  
-### ⚽ [NewGAN Manager 26](https://github.com/AnthonyMahe/NewGAN-Manager-26) - Modern Face Generator for Football Manager 26
+
+### ⚽ [NewGAN Manager 26](https://github.com/AnthonyMahe/NewGAN-Manager-26)
+**Modern Face Generator for Football Manager 26**
 
 [![Stars](https://img.shields.io/github/stars/AnthonyMahe/NewGAN-Manager-26?style=for-the-badge&color=yellow)](https://github.com/AnthonyMahe/NewGAN-Manager-26)
 [![License](https://img.shields.io/github/license/AnthonyMahe/NewGAN-Manager-26?style=for-the-badge)](https://github.com/AnthonyMahe/NewGAN-Manager-26/blob/main/LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/AnthonyMahe/NewGAN-Manager-26/total?style=for-the-badge&color=00D9FF)](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
-
-</div>
 
 <p align="center">
   A modern face generator for Football Manager 26 newgens. A complete rewrite of the original NewGAN-Manager, rebuilt from scratch for improved performance and a modern UI.
@@ -34,26 +33,26 @@
 </p>
 
 <p align="center">
-  <strong>🚀 Tech Stack:</strong> <code>Tauri</code> • <code>Svelte 5</code> • <code>Rust</code> • <code>TypeScript</code>
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Svelte_5-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte 5" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Skeleton-7F56D9?style=for-the-badge&logo=skeleton&logoColor=white" alt="Skeleton" />
 </p>
 
 <p align="center">
   <strong>📦 <a href="https://github.com/AnthonyMahe/NewGAN-Manager-26/releases">Download Latest Release</a></strong> (Windows & Linux)
 </p>
 
----
+<br/>
 
-<h2 align="center">🍅 Featured Project: TomatoTask</h2>
-
-<div align="center">
-  
-### 🍅 [TomatoTask](https://github.com/AnthonyMahe/TomatoTask) - Modern Pomodoro Timer & Task Manager
+### 🍅 [TomatoTask](https://github.com/AnthonyMahe/TomatoTask)
+**Modern Pomodoro Timer & Task Manager**
 
 [![Stars](https://img.shields.io/github/stars/AnthonyMahe/TomatoTask?style=for-the-badge&color=yellow)](https://github.com/AnthonyMahe/TomatoTask)
 [![License](https://img.shields.io/github/license/AnthonyMahe/TomatoTask?style=for-the-badge)](https://github.com/AnthonyMahe/TomatoTask/blob/main/LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/AnthonyMahe/TomatoTask/total?style=for-the-badge&color=00D9FF)](https://github.com/AnthonyMahe/TomatoTask/releases)
-
-</div>
 
 <p align="center">
   A modern and feature-rich <strong>open-source</strong> Pomodoro Timer application with advanced task management. Built with <strong>Tauri 2</strong> and <strong>Svelte 5</strong> using <strong>Shadcn-svelte</strong> components for a polished user experience.
@@ -65,12 +64,19 @@
 </p>
 
 <p align="center">
-  <strong>🚀 Tech Stack:</strong> <code>Tauri 2</code> • <code>Svelte 5</code> • <code>TypeScript</code> • <code>Rust</code> • <code>Shadcn-svelte</code>
+  <img src="https://img.shields.io/badge/Tauri_2-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri 2" />
+  <img src="https://img.shields.io/badge/Svelte_5-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte 5" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
 </p>
 
 <p align="center">
   <strong>📦 <a href="https://github.com/AnthonyMahe/TomatoTask/releases">Download Latest Release</a></strong> (Windows & Linux - Flatpak coming to Flathub soon!)
 </p>
+
+</div>
 
 ---
 

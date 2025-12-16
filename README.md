@@ -20,7 +20,7 @@
 **Modern Face Generator for Football Manager 26**
 
 [![Stars](https://img.shields.io/github/stars/AnthonyMahe/NewGAN-Manager-26?style=for-the-badge&color=yellow)](https://github.com/AnthonyMahe/NewGAN-Manager-26)
-[![License](https://img.shields.io/github/license/AnthonyMahe/NewGAN-Manager-26?style=for-the-badge)](https://github.com/AnthonyMahe/NewGAN-Manager-26/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)](https://github.com/AnthonyMahe/NewGAN-Manager-26/blob/main/LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/AnthonyMahe/NewGAN-Manager-26/total?style=for-the-badge&color=00D9FF)](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
 
 <p align="center">
@@ -66,8 +66,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Tauri_2-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri 2" />
   <img src="https://img.shields.io/badge/Svelte_5-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte 5" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
 </p>

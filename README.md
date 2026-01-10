@@ -54,12 +54,12 @@
 [![Downloads](https://img.shields.io/github/downloads/AnthonyMahe/FMToolsV2/total?style=for-the-badge&color=00D9FF)](https://github.com/AnthonyMahe/FMToolsV2/releases)
 
 <p align="center">
-  Tools for evaluating players, staff and infrastructure in Football Manager. Available in 24 EU languages.
+  Tools for evaluating players, staff and infrastructure in Football Manager. Available in 13 languages.
 </p>
 
 <p align="center">
   <strong>✨ Features:</strong><br/>
-  🕵️ Hidden Attributes • 👥 Staff Evaluation • 📋 Report Analysis • 🏗️ Infrastructure Report • 🌍 24 Languages
+  🕵️ Hidden Attributes • 👥 Staff Evaluation • 📋 Report Analysis • 🏗️ Infrastructure Report • 🌍 13 Languages
 </p>
 
 <p align="center">

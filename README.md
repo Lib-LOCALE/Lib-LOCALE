@@ -29,7 +29,7 @@
 
 <p align="center">
   <strong>✨ Features:</strong><br/>
-  🎨 Modern UI • ⚡ Lightweight (Tauri) • 🛡️ Smart Validation • 🌍 8 Languages • 🔄 3 Generation Modes
+  🎨 Modern UI • ⚡ Lightweight (Tauri) • 🛡️ Smart Validation • 🌍 14 Languages • 🔄 3 Generation Modes
 </p>
 
 <p align="center">

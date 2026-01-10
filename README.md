@@ -47,6 +47,36 @@
 
 <br/>
 
+### 📊 [FMToolsV2](https://github.com/AnthonyMahe/FMToolsV2)
+**Tools for evaluating players, staff and infrastructure in Football Manager**
+
+[![Stars](https://img.shields.io/github/stars/AnthonyMahe/FMToolsV2?style=for-the-badge&color=yellow)](https://github.com/AnthonyMahe/FMToolsV2)
+[![Downloads](https://img.shields.io/github/downloads/AnthonyMahe/FMToolsV2/total?style=for-the-badge&color=00D9FF)](https://github.com/AnthonyMahe/FMToolsV2/releases)
+
+<p align="center">
+  Tools for evaluating players, staff and infrastructure in Football Manager. Available in 24 EU languages.
+</p>
+
+<p align="center">
+  <strong>✨ Features:</strong><br/>
+  🕵️ Hidden Attributes • 👥 Staff Evaluation • 📋 Report Analysis • 🏗️ Infrastructure Report • 🌍 24 Languages
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Svelte_5-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte 5" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Skeleton-7F56D9?style=for-the-badge&logo=skeleton&logoColor=white" alt="Skeleton" />
+</p>
+
+<p align="center">
+  <strong>📦 <a href="https://github.com/AnthonyMahe/FMToolsV2/releases">Download Latest Release</a></strong> (Windows & Linux)
+</p>
+
+<br/>
+
 ### 🍅 [TomatoTask](https://github.com/AnthonyMahe/TomatoTask)
 **Modern Pomodoro Timer & Task Manager**
 

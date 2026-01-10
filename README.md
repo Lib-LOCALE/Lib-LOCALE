@@ -168,6 +168,9 @@
   <a href="https://github.com/anthonymahe" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://liberapay.com/TonyBoySUPER/donate">
+    <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" />
+  </a>
 </p>
 
 ---

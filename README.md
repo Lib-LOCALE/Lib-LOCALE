@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anthonymahe&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="anthonymahe" />
+  <img src="https://komarev.com/ghpvc/?username=Lib-LOCALE&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Lib-LOCALE" />
 </p>
 
 <p align="center">
@@ -23,10 +23,10 @@
 
 <div align="center">
 
-### ⚽ [NewGAN Manager 26](https://github.com/AnthonyMahe/NewGAN-Manager-26)
+### ⚽ [NewGAN Manager 26](https://github.com/Lib-LOCALE/NewGAN-Manager-26)
 **Modern Face Generator for Football Manager 26**
 
-[![Stars](https://img.shields.io/github/stars/AnthonyMahe/NewGAN-Manager-26?style=for-the-badge&color=yellow)](https://github.com/AnthonyMahe/NewGAN-Manager-26)
+[![Stars](https://img.shields.io/github/stars/Lib-LOCALE/NewGAN-Manager-26?style=for-the-badge&color=yellow)](https://github.com/Lib-LOCALE/NewGAN-Manager-26)
 
 <p align="center">
   A complete rewrite of the original NewGAN-Manager, rebuilt from scratch using Tauri.
@@ -39,10 +39,10 @@
 
 <br/>
 
-### 📊 [FMToolsV2](https://github.com/AnthonyMahe/FMToolsV2)
+### 📊 [FMToolsV2](https://github.com/Lib-LOCALE/FMToolsV2)
 **Tools for Football Manager**
 
-[![Stars](https://img.shields.io/github/stars/AnthonyMahe/FMToolsV2?style=for-the-badge&color=yellow)](https://github.com/AnthonyMahe/FMToolsV2)
+[![Stars](https://img.shields.io/github/stars/Lib-LOCALE/FMToolsV2?style=for-the-badge&color=yellow)](https://github.com/Lib-LOCALE/FMToolsV2)
 
 <p align="center">
   Tools for evaluating players, staff and infrastructure.
@@ -55,10 +55,10 @@
 
 <br/>
 
-### 🍅 [TomatoTask](https://github.com/AnthonyMahe/TomatoTask)
+### 🍅 [TomatoTask](https://github.com/Lib-LOCALE/TomatoTask)
 **Modern Pomodoro Timer & Task Manager**
 
-[![Stars](https://img.shields.io/github/stars/AnthonyMahe/TomatoTask?style=for-the-badge&color=yellow)](https://github.com/AnthonyMahe/TomatoTask)
+[![Stars](https://img.shields.io/github/stars/Lib-LOCALE/TomatoTask?style=for-the-badge&color=yellow)](https://github.com/Lib-LOCALE/TomatoTask)
 
 <p align="center">
   Modern Pomodoro Timer with advanced task management.
@@ -87,7 +87,7 @@
   <a href="https://linkedin.com/in/anthony-mahe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/anthonymahe" target="_blank">
+  <a href="https://github.com/Lib-LOCALE" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>

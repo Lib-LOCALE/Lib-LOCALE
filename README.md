@@ -1,86 +1,47 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=LOCALE;Native+First+Development;Breaking+Language+Barriers;Coding+for+Everyone" alt="Typing SVG" />
-</h1>
+# Anthony Blanchard
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lib-LOCALE&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Lib-LOCALE" />
-</p>
+**QA Analyst / Application Support / Front-End Developer**
+Bordeaux, France
 
-<p align="center">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1eb-1f1f7.png" width="20" height="20" alt="France" /> <strong>French QA Engineer & Vibe Coder</strong><br/>
-  <em>Open-source • Privacy-first • AI-Enhanced</em>
-</p>
+I build and maintain multilingual desktop and web tools with a focus on reliability, usability, and clear documentation.
 
-<p align="center">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f30d.png" width="20" height="20" alt="World" /> <strong>The LOCALE Philosophy</strong><br/>
-  Building software that speaks <em>your</em> language, not just English.<br/>
-  Using AI to break barriers and restore digital sovereignty.
-</p>
+My background combines application testing, user support, issue qualification, and front-end development. I am especially interested in tools that make software easier to use across languages and platforms.
 
----
+## Core Skills
 
-<h2 align="center">🔥 Featured Projects</h2>
+- QA and application testing: functional validation, anomaly tracking, test scenarios, user feedback
+- Front-end development: Svelte, TypeScript, Vite, Tailwind CSS
+- Desktop applications: Tauri, Rust, Windows and Linux releases
+- Internationalization: multilingual UI, localized documentation, user-facing translation workflows
+- Engineering hygiene: Git, structured README files, release notes, checksums, GitHub Actions
 
-<div align="center">
+## Featured Projects
 
-### ⚽ [NewGAN Manager 26](https://github.com/Lib-LOCALE/NewGAN-Manager-26)
-**Modern Face Generator for Football Manager 26**
+### [FMToolsV2](https://github.com/Lib-LOCALE/FMToolsV2)
 
-[![Stars](https://img.shields.io/github/stars/Lib-LOCALE/NewGAN-Manager-26?style=for-the-badge&color=yellow)](https://github.com/Lib-LOCALE/NewGAN-Manager-26)
+Desktop application for Football Manager analysis, available in multiple European languages.
 
-<p align="center">
-  A complete rewrite of the original NewGAN-Manager, rebuilt from scratch using Tauri.
-</p>
+- Built with Svelte, TypeScript, and Tauri
+- Cross-platform releases for Windows and Linux
+- Multilingual documentation and interface
+- Signed releases with SHA256 checksums and GitHub attestations
 
-<p align="center">
-  <strong>✨ Features:</strong><br/>
-  🎨 Modern UI • ⚡ Lightweight • 🌍 <strong>14 Languages (Native Support)</strong>
-</p>
+### [TomatoTask](https://github.com/Lib-LOCALE/TomatoTask)
 
-<br/>
+Cross-platform Pomodoro timer and task manager focused on local productivity.
 
-### 📊 [FMToolsV2](https://github.com/Lib-LOCALE/FMToolsV2)
-**Tools for Football Manager**
+- Built with Svelte, TypeScript, Tauri, and SQLite
+- Includes task management, statistics, themes, shortcuts, and native notifications
+- Project quality signals: changelog, contributing guide, security policy, linting, tests, and CI workflows
 
-[![Stars](https://img.shields.io/github/stars/Lib-LOCALE/FMToolsV2?style=for-the-badge&color=yellow)](https://github.com/Lib-LOCALE/FMToolsV2)
+### [NewGAN Manager 26](https://github.com/Lib-LOCALE/NewGAN-Manager-26)
 
-<p align="center">
-  Tools for evaluating players, staff and infrastructure.
-</p>
+Experimental Tauri/Svelte rewrite of NewGAN Manager for Football Manager 26.
 
-<p align="center">
-  <strong>✨ Features:</strong><br/>
-  🕵️ Hidden Attributes • 📋 Report Analysis • 🌍 <strong>13 Languages</strong>
-</p>
+- Modern desktop UI and cross-platform packaging
+- Multilingual interface and documentation
+- Currently paused because Football Manager 26 changed the export workflow required to extract player IDs
 
-<br/>
+## What I Am Looking For
 
-### 🍅 [TomatoTask](https://github.com/Lib-LOCALE/TomatoTask)
-**Modern Pomodoro Timer & Task Manager**
-
-[![Stars](https://img.shields.io/github/stars/Lib-LOCALE/TomatoTask?style=for-the-badge&color=yellow)](https://github.com/Lib-LOCALE/TomatoTask)
-
-<p align="center">
-  Modern Pomodoro Timer with advanced task management.
-</p>
-
-<p align="center">
-  <strong>✨ Features:</strong><br/>
-  🍅 Timer • ✅ Tasks • 📊 Stats • 🌍 <strong>Multilingual (EN/FR/DE/ES/IT)</strong>
-</p>
-
-</div>
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,rust,svelte,postgres,godot" alt="tech stack" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" alt="footer" />
-</p>
+Roles around QA, application support, product-facing technical support, or front-end development where I can help teams test, document, support, and improve user-facing software.

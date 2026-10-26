@@ -2,12 +2,13 @@
 
 # Anthony Blanchard
 
-#### QA Analyst · Application Support · Front-End Developer
+**QA Analyst · Front-end & desktop developer · Game maker**
 
 `📍 Bordeaux, France`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anthony--blanchard-2F6FED?style=flat-square&logo=netlify&logoColor=white)](https://anthony-blanchard-portfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Lib--LOCALE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lib-LOCALE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anthony--blanchard-d9481a?style=flat-square&logo=netlify&logoColor=white)](https://anthony-blanchard-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-anthony.blanchard%40tuta.io-1a1712?style=flat-square&logo=tutanota&logoColor=white)](mailto:anthony.blanchard@tuta.io)
+[![itch.io](https://img.shields.io/badge/itch.io-Hen%2C_Fox_or_Viper-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://mammothgame.itch.io/hen-fox-or-viper)
 
 **[🇫🇷 Français](#-français) · [🇬🇧 English](#-english)**
 
@@ -17,154 +18,82 @@
 
 ## 🇫🇷 Français
 
-Je conçois et maintiens des outils **desktop et web multilingues**, avec une attention forte portée à la fiabilité, à l'ergonomie et à une documentation claire.
+Chargé de recette le jour, je conçois le reste du temps des **applications web, desktop, Android et des jeux** — multilingues dès le départ, testées avec la rigueur d'un QA.
 
-Mon parcours combine **test applicatif, support utilisateur, qualification d'anomalies et développement front-end**. Je m'intéresse particulièrement aux outils qui rendent les logiciels plus simples à utiliser, quelles que soient la langue et la plateforme.
+Neuf ans du côté des utilisateurs (support, recouvrement, recette) m'ont appris ce qui casse. Je construis pour que ça ne casse pas : harnais de vérification, tests déterministes, releases signées, documentation traduite.
 
-### Compétences clés
+### Projets publics
 
-- **QA & test applicatif** — validation fonctionnelle, suivi d'anomalies, scénarios de test, retours utilisateurs
-- **Développement front-end** — Svelte, TypeScript, Vite, Tailwind CSS
-- **Applications desktop** — Tauri, Rust, livraisons Windows & Linux
-- **Internationalisation** — interface multilingue, documentation localisée, workflows de traduction
-- **Rigueur d'ingénierie** — Git, README structurés, notes de version, checksums, GitHub Actions
+| Projet                                                                       | En bref                                                                                         | Stack                         |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------- |
+| [**Hen, Fox or Viper**](https://mammothgame.itch.io/hen-fox-or-viper)        | Jeu multijoueur 3D sans combat : le renard attrape la poule, la poule la vipère, la vipère le renard. [Film](https://youtu.be/jd11Hvhc87Y) · [Builds](https://github.com/Lib-LOCALE/hen-fox-or-viper-releases) | Godot 4, Blender, ComfyUI     |
+| [**Munovae**](https://munovae.com)                                           | Liste de naissance européenne sans commission : les proches paient les parents en direct via Wero. | SvelteKit, Turso, Scaleway    |
+| [**TomatoTask**](https://github.com/Lib-LOCALE/TomatoTask)                   | Pomodoro et gestion de tâches local-first, 5 langues, CI et tests.                              | Svelte 5, Tauri, SQLite       |
+| [**FMToolsV2**](https://github.com/Lib-LOCALE/FMToolsV2)                     | Outils d'analyse pour Football Manager, 13 langues, releases signées SHA256.                    | Svelte, Tauri, GitHub Actions |
+| [**NewGAN Manager 26**](https://github.com/Lib-LOCALE/NewGAN-Manager-26)     | Réécriture expérimentale de NewGAN Manager pour FM26 — en pause (export modifié par FM26).      | Svelte, Tauri                 |
 
-### Stack
+### En privé, en ce moment
 
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+- **VLC Reborn** — lecteur multimédia 100 % Rust (Slint + libVLC) tiré d'un concept Figma
+- **Certitude** — outil de recette qui recalcule des cotisations sociales au centime près
+- **BabyChou** — carnet de bébé Android hors ligne d'abord (Kotlin, Compose, PocketBase)
+- **BELLIFRONT** — RTS 1v1 dans le navigateur, simulation déterministe et réseau lockstep
+- **BasilouAI** — mémoire partagée pour mes agents IA (Claude Code, Codex, Antigravity)
 
-### Projets phares
-
-<a href="https://github.com/Lib-LOCALE/FMToolsV2">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=FMToolsV2&theme=dark&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=FMToolsV2&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" alt="FMToolsV2" />
-  </picture>
-</a>
-
-- Application desktop d'analyse pour Football Manager, disponible en plusieurs langues européennes
-- Construite avec **Svelte, TypeScript et Tauri** — livraisons Windows & Linux
-- Interface et documentation multilingues
-- Releases signées avec checksums SHA256 et attestations GitHub
-
-<a href="https://github.com/Lib-LOCALE/TomatoTask">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=TomatoTask&theme=dark&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=TomatoTask&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" alt="TomatoTask" />
-  </picture>
-</a>
-
-- Minuteur Pomodoro et gestionnaire de tâches multiplateforme, axé sur la productivité locale
-- Construit avec **Svelte, TypeScript, Tauri et SQLite**
-- Gestion de tâches, statistiques, thèmes, raccourcis et notifications natives
-- Signaux de qualité : changelog, guide de contribution, politique de sécurité, linting, tests et CI
-
-<a href="https://github.com/Lib-LOCALE/NewGAN-Manager-26">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=NewGAN-Manager-26&theme=dark&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=NewGAN-Manager-26&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" alt="NewGAN Manager 26" />
-  </picture>
-</a>
-
-- Réécriture expérimentale (Tauri/Svelte) de NewGAN Manager pour Football Manager 26
-- UI desktop moderne et packaging multiplateforme, interface et documentation multilingues
-- En pause : FM 26 a modifié le workflow d'export nécessaire à l'extraction des IDs de joueurs
+Détails et captures sur le [portfolio](https://anthony-blanchard-portfolio.netlify.app/).
 
 ### Ce que je recherche
 
-Des postes autour de la **QA, du support applicatif, du support technique orienté produit ou du développement front-end**, où je peux aider les équipes à tester, documenter, accompagner et améliorer des logiciels destinés aux utilisateurs.
+Des postes en **QA, support applicatif, support technique orienté produit ou développement front-end**, où aider une équipe à tester, documenter et améliorer des logiciels utilisés par de vraies personnes.
 
 ---
 
 ## 🇬🇧 English
 
-I build and maintain **multilingual desktop and web tools**, with a strong focus on reliability, usability, and clear documentation.
+QA analyst by day, I spend the rest of my time building **web, desktop and Android apps and games** — multilingual from day one, tested with a QA's rigor.
 
-My background combines **application testing, user support, issue qualification, and front-end development**. I am especially interested in tools that make software easier to use across languages and platforms.
+Nine years on the users' side (support, collections, QA) taught me what breaks. I build so it doesn't: verification harnesses, deterministic tests, signed releases, translated docs.
 
-### Core Skills
+### Public projects
 
-- **QA & application testing** — functional validation, anomaly tracking, test scenarios, user feedback
-- **Front-end development** — Svelte, TypeScript, Vite, Tailwind CSS
-- **Desktop applications** — Tauri, Rust, Windows & Linux releases
-- **Internationalization** — multilingual UI, localized documentation, translation workflows
-- **Engineering hygiene** — Git, structured READMEs, release notes, checksums, GitHub Actions
+| Project                                                                      | In short                                                                                        | Stack                         |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------- |
+| [**Hen, Fox or Viper**](https://mammothgame.itch.io/hen-fox-or-viper)        | Zero-combat 3D multiplayer game: fox catches hen, hen catches viper, viper catches fox. [Film](https://youtu.be/jd11Hvhc87Y) · [Builds](https://github.com/Lib-LOCALE/hen-fox-or-viper-releases) | Godot 4, Blender, ComfyUI     |
+| [**Munovae**](https://munovae.com)                                           | Commission-free European baby registry: guests pay parents directly with Wero.                  | SvelteKit, Turso, Scaleway    |
+| [**TomatoTask**](https://github.com/Lib-LOCALE/TomatoTask)                   | Local-first Pomodoro and task manager, 5 languages, CI and tests.                               | Svelte 5, Tauri, SQLite       |
+| [**FMToolsV2**](https://github.com/Lib-LOCALE/FMToolsV2)                     | Football Manager analysis tools, 13 languages, SHA256-signed releases.                          | Svelte, Tauri, GitHub Actions |
+| [**NewGAN Manager 26**](https://github.com/Lib-LOCALE/NewGAN-Manager-26)     | Experimental NewGAN Manager rewrite for FM26 — paused (FM26 changed its export workflow).       | Svelte, Tauri                 |
 
-### Stack
+### Private, right now
 
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+- **VLC Reborn** — 100% Rust media player (Slint + libVLC) built from a Figma concept
+- **Certitude** — QA tool that recomputes social contributions to the cent
+- **BabyChou** — offline-first Android baby logbook (Kotlin, Compose, PocketBase)
+- **BELLIFRONT** — 1v1 browser RTS with deterministic simulation and lockstep networking
+- **BasilouAI** — shared memory for my AI agents (Claude Code, Codex, Antigravity)
 
-### Featured Projects
+Details and screenshots on the [portfolio](https://anthony-blanchard-portfolio.netlify.app/).
 
-<a href="https://github.com/Lib-LOCALE/FMToolsV2">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=FMToolsV2&theme=dark&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=FMToolsV2&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" alt="FMToolsV2" />
-  </picture>
-</a>
+### What I'm looking for
 
-- Desktop application for Football Manager analysis, available in several European languages
-- Built with **Svelte, TypeScript, and Tauri** — cross-platform Windows & Linux releases
-- Multilingual interface and documentation
-- Signed releases with SHA256 checksums and GitHub attestations
-
-<a href="https://github.com/Lib-LOCALE/TomatoTask">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=TomatoTask&theme=dark&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=TomatoTask&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" alt="TomatoTask" />
-  </picture>
-</a>
-
-- Cross-platform Pomodoro timer and task manager focused on local productivity
-- Built with **Svelte, TypeScript, Tauri, and SQLite**
-- Task management, statistics, themes, shortcuts, and native notifications
-- Quality signals: changelog, contributing guide, security policy, linting, tests, and CI
-
-<a href="https://github.com/Lib-LOCALE/NewGAN-Manager-26">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=NewGAN-Manager-26&theme=dark&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=NewGAN-Manager-26&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" alt="NewGAN Manager 26" />
-  </picture>
-</a>
-
-- Experimental Tauri/Svelte rewrite of NewGAN Manager for Football Manager 26
-- Modern desktop UI and cross-platform packaging, multilingual interface and documentation
-- Currently paused: FM 26 changed the export workflow required to extract player IDs
-
-### What I'm Looking For
-
-Roles around **QA, application support, product-facing technical support, or front-end development**, where I can help teams test, document, support, and improve user-facing software.
+Roles in **QA, application support, product-facing technical support or front-end development**, helping a team test, document and improve software used by real people.
 
 ---
 
 <div align="center">
 
-### 📊 GitHub
+### Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lib-LOCALE&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&icon_color=2F6FED&title_color=2F6FED&hide=issues" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lib-LOCALE&show_icons=true&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED&hide=issues" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lib-LOCALE&layout=compact&hide_border=true&bg_color=00000000&theme=dark&title_color=2F6FED" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lib-LOCALE&layout=compact&hide_border=true&bg_color=00000000&title_color=2F6FED" alt="Top Languages" />
-</picture>
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 <sub>Merci d'être passé · Thanks for stopping by</sub>
 

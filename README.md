@@ -6,10 +6,10 @@
 
 `📍 Bordeaux, France`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anthony--blanchard-2F6FED?style=flat-square&logo=netlify&logoColor=white)](https://anthony-blanchard-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anthony--blanchard-008C87?style=flat-square&logo=netlify&logoColor=white)](https://anthony-blanchard-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Lib--LOCALE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lib-LOCALE)
 
-**[🇫🇷 Français](#-français) · [🇬🇧 English](#-english)**
+**🇫🇷 Français · 🇬🇧 English (voir plus bas / see below)**
 
 </div>
 
@@ -45,20 +45,20 @@ Mon parcours combine **test applicatif, support utilisateur, qualification d'ano
 
 <a href="https://github.com/Lib-LOCALE/FMToolsV2">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=FMToolsV2&theme=dark&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=FMToolsV2&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" alt="FMToolsV2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=FMToolsV2&theme=dark&hide_border=true&bg_color=00000000&icon_color=008C87&title_color=008C87" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=FMToolsV2&hide_border=true&bg_color=00000000&icon_color=008C87&title_color=008C87" alt="FMToolsV2" />
   </picture>
 </a>
 
 - Application desktop d'analyse pour Football Manager, disponible en plusieurs langues européennes
 - Construite avec **Svelte, TypeScript et Tauri** — livraisons Windows & Linux
 - Interface et documentation multilingues
-- Releases signées avec checksums SHA256 et attestations GitHub
+- Releases vérifiables : checksums SHA256 et attestations de provenance GitHub
 
 <a href="https://github.com/Lib-LOCALE/TomatoTask">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=TomatoTask&theme=dark&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=TomatoTask&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" alt="TomatoTask" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=TomatoTask&theme=dark&hide_border=true&bg_color=00000000&icon_color=008C87&title_color=008C87" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=TomatoTask&hide_border=true&bg_color=00000000&icon_color=008C87&title_color=008C87" alt="TomatoTask" />
   </picture>
 </a>
 
@@ -69,8 +69,8 @@ Mon parcours combine **test applicatif, support utilisateur, qualification d'ano
 
 <a href="https://github.com/Lib-LOCALE/NewGAN-Manager-26">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=NewGAN-Manager-26&theme=dark&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=NewGAN-Manager-26&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" alt="NewGAN Manager 26" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=NewGAN-Manager-26&theme=dark&hide_border=true&bg_color=00000000&icon_color=008C87&title_color=008C87" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=NewGAN-Manager-26&hide_border=true&bg_color=00000000&icon_color=008C87&title_color=008C87" alt="NewGAN Manager 26" />
   </picture>
 </a>
 
@@ -84,7 +84,8 @@ Des postes autour de la **QA, du support applicatif, du support technique orient
 
 ---
 
-## 🇬🇧 English
+<details>
+<summary><b>🇬🇧 English</b></summary>
 
 I build and maintain **multilingual desktop and web tools**, with a strong focus on reliability, usability, and clear documentation.
 
@@ -98,50 +99,23 @@ My background combines **application testing, user support, issue qualification,
 - **Internationalization** — multilingual UI, localized documentation, translation workflows
 - **Engineering hygiene** — Git, structured READMEs, release notes, checksums, GitHub Actions
 
-### Stack
-
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
 ### Featured Projects
 
-<a href="https://github.com/Lib-LOCALE/FMToolsV2">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=FMToolsV2&theme=dark&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=FMToolsV2&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" alt="FMToolsV2" />
-  </picture>
-</a>
+**[FMToolsV2](https://github.com/Lib-LOCALE/FMToolsV2)**
 
 - Desktop application for Football Manager analysis, available in several European languages
 - Built with **Svelte, TypeScript, and Tauri** — cross-platform Windows & Linux releases
 - Multilingual interface and documentation
-- Signed releases with SHA256 checksums and GitHub attestations
+- Verifiable releases: SHA256 checksums and GitHub provenance attestations
 
-<a href="https://github.com/Lib-LOCALE/TomatoTask">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=TomatoTask&theme=dark&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=TomatoTask&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" alt="TomatoTask" />
-  </picture>
-</a>
+**[TomatoTask](https://github.com/Lib-LOCALE/TomatoTask)**
 
 - Cross-platform Pomodoro timer and task manager focused on local productivity
 - Built with **Svelte, TypeScript, Tauri, and SQLite**
 - Task management, statistics, themes, shortcuts, and native notifications
 - Quality signals: changelog, contributing guide, security policy, linting, tests, and CI
 
-<a href="https://github.com/Lib-LOCALE/NewGAN-Manager-26">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=NewGAN-Manager-26&theme=dark&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=NewGAN-Manager-26&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED" alt="NewGAN Manager 26" />
-  </picture>
-</a>
+**[NewGAN-Manager-26](https://github.com/Lib-LOCALE/NewGAN-Manager-26)**
 
 - Experimental Tauri/Svelte rewrite of NewGAN Manager for Football Manager 26
 - Modern desktop UI and cross-platform packaging, multilingual interface and documentation
@@ -151,19 +125,17 @@ My background combines **application testing, user support, issue qualification,
 
 Roles around **QA, application support, product-facing technical support, or front-end development**, where I can help teams test, document, support, and improve user-facing software.
 
+</details>
+
 ---
 
 <div align="center">
 
-### 📊 GitHub
+### 📊 Langages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lib-LOCALE&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&icon_color=2F6FED&title_color=2F6FED&hide=issues" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lib-LOCALE&show_icons=true&hide_border=true&bg_color=00000000&icon_color=2F6FED&title_color=2F6FED&hide=issues" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lib-LOCALE&layout=compact&hide_border=true&bg_color=00000000&theme=dark&title_color=2F6FED" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lib-LOCALE&layout=compact&hide_border=true&bg_color=00000000&title_color=2F6FED" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lib-LOCALE&layout=compact&hide_border=true&bg_color=00000000&theme=dark&title_color=008C87" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lib-LOCALE&layout=compact&hide_border=true&bg_color=00000000&title_color=008C87" alt="Top Languages" />
 </picture>
 
 <sub>Merci d'être passé · Thanks for stopping by</sub>

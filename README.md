@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/lib-locale.svg" alt="Lib-LOCALE — maison isométrique lumineuse cyan et ambre" width="160" height="160">
+<img src="https://raw.githubusercontent.com/Lib-LOCALE/Lib-LOCALE/7a66a6bbbef8b9df07c3598652c1aaca1ad051ba/assets/lib-locale.svg" alt="Lib-LOCALE — maison isométrique lumineuse cyan et ambre" width="160" height="160">
 
 <sub>BORDEAUX, FRANCE &nbsp; / &nbsp; LIB-LOCALE</sub>
 

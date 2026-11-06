@@ -29,6 +29,24 @@ Je conçois des applications **web et desktop multilingues**, avec le même souc
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3><a href="https://github.com/Lib-LOCALE/ondrane">Ondrane ↗</a></h3>
+<p>Vos médias. Votre rythme.</p>
+<a href="https://github.com/Lib-LOCALE/ondrane"><img src="https://raw.githubusercontent.com/Lib-LOCALE/ondrane/main/docs/screenshots/player.png" alt="Ondrane : lecteur multimédia avec navigation latérale et commandes de lecture." width="100%"></a>
+<p>Un lecteur desktop pour les vidéos, la musique et les flux réseau. Bibliothèque, sous-titres, thèmes et intégration Wayland. Disponible en préversion.</p>
+<p><sub>Rust · Slint · libVLC</sub></p>
+<p><a href="https://github.com/Lib-LOCALE/ondrane"><b>Le code</b></a> &nbsp; · &nbsp; <a href="https://github.com/Lib-LOCALE/ondrane/releases">Les préversions</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Lib-LOCALE/calculatrice">Calculette ↗</a></h3>
+<p>Les bons calculs, dans vos couleurs.</p>
+<a href="https://github.com/Lib-LOCALE/calculatrice"><img src="https://raw.githubusercontent.com/Lib-LOCALE/calculatrice/main/docs/screenshot.png" alt="Calculette : mode scientifique et historique dans le thème Catppuccin Mocha." width="100%"></a>
+<p>Une calculatrice pour Linux et Wayland : modes standard et scientifique, calcul décimal en Rust, historique et thèmes. Six langues et distribution Flatpak.</p>
+<p><sub>Svelte · TypeScript · Tauri · Rust</sub></p>
+<p><a href="https://github.com/Lib-LOCALE/calculatrice"><b>Le code</b></a> &nbsp; · &nbsp; <a href="https://github.com/Lib-LOCALE/calculatrice/releases/latest">Télécharger</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/Lib-LOCALE/TomatoTask">TomatoTask ↗</a></h3>
 <p>La concentration prend des couleurs.</p>
 <a href="https://github.com/Lib-LOCALE/TomatoTask"><img src="https://raw.githubusercontent.com/Lib-LOCALE/TomatoTask/main/.github/images/timer.png" alt="TomatoTask : minuteur Pomodoro, tâches et fresque de carreaux illustrés." width="100%"></a>
@@ -65,7 +83,7 @@ Une réécriture expérimentale de NewGAN Manager avec **Tauri et Svelte**, pour
 | Tester & comprendre | Construire & livrer |
 | :--- | :--- |
 | Validation fonctionnelle et scénarios de test | Interfaces avec Svelte, TypeScript, Vite et Tailwind CSS |
-| Reproduction et qualification des anomalies | Applications desktop avec Tauri, Rust et SQLite |
+| Reproduction et qualification des anomalies | Applications desktop avec Tauri, Rust, Slint et SQLite |
 | Support applicatif et retours utilisateurs | Livraisons Windows et Linux avec GitHub Actions |
 | Documentation claire et accompagnement | Internationalisation des interfaces et des guides |
 
@@ -88,11 +106,13 @@ Based in Bordeaux, France, I build **multilingual web and desktop applications**
 
 **Selected work**
 
+- **[Ondrane](https://github.com/Lib-LOCALE/ondrane)** — A desktop media player built with Rust, Slint and libVLC. Video, music, network streams, a media library and Wayland integration. Available as a preview.
+- **[Calculette](https://github.com/Lib-LOCALE/calculatrice)** — A standard and scientific calculator for Linux and Wayland, with Rust decimal arithmetic, history, themes and six languages. Distributed as a Flatpak.
 - **[TomatoTask](https://github.com/Lib-LOCALE/TomatoTask)** — A local-first Pomodoro timer and task manager. Each completed session paints a tile in a growing fresco. Five languages, Windows and Linux.
 - **[FMToolsV2](https://github.com/Lib-LOCALE/FMToolsV2)** — Desktop tools for Football Manager: player and staff analysis, reports and club infrastructure, with multilingual UI and documentation.
 - **[NewGAN Manager 26](https://github.com/Lib-LOCALE/NewGAN-Manager-26)** — An experimental Tauri/Svelte rewrite, paused following changes to FM 26's player-ID export workflow.
 
-**What I work with:** Svelte, TypeScript, Tauri, Rust, SQLite, Vite, Tailwind CSS and GitHub Actions.
+**What I work with:** Svelte, TypeScript, Tauri, Rust, Slint, SQLite, Vite, Tailwind CSS and GitHub Actions.
 
 I am looking for opportunities in **QA, application support or front-end development**.
 

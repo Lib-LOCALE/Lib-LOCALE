@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/lib-locale.svg" alt="Lib-LOCALE — maison isométrique lumineuse cyan et ambre" width="160" height="160">
+
 <sub>BORDEAUX, FRANCE &nbsp; / &nbsp; LIB-LOCALE</sub>
 
 # Anthony Blanchard

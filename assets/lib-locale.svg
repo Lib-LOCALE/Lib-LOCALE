@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 260" width="100%" height="100%">
+    
+    <defs>
+        <radialGradient id="bg-glow-0" cx="50%" cy="50%" r="55%">
+            <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.14"/>
+            <stop offset="65%" stop-color="#0a0f18" stop-opacity="0.95"/>
+            <stop offset="100%" stop-color="#0a0f18" stop-opacity="1"/>
+        </radialGradient>
+        <pattern id="iso-grid-0" width="20" height="20" patternUnits="userSpaceOnUse">
+            <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#00e5ff" stroke-width="0.5" stroke-opacity="0.08"/>
+        </pattern>
+        <filter id="neon-cyan-0" x="-30%" y="-30%" width="160%" height="160%">
+            <feGaussianBlur stdDeviation="3.5" result="blur1"/>
+            <feGaussianBlur stdDeviation="8" result="blur2"/>
+            <feMerge>
+                <feMergeNode in="blur2"/>
+                <feMergeNode in="blur1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <filter id="neon-amber-0" x="-40%" y="-40%" width="180%" height="180%">
+            <feGaussianBlur stdDeviation="4" result="blur1"/>
+            <feGaussianBlur stdDeviation="10" result="blur2"/>
+            <feMerge>
+                <feMergeNode in="blur2"/>
+                <feMergeNode in="blur1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <style>
+        .c1-float {
+            animation: c1Float 4.00s ease-in-out infinite;
+            animation-play-state: running;
+            transform-origin: center;
+        }
+        .c1-roof {
+            animation: c1Roof 4.00s ease-in-out infinite;
+            animation-play-state: running;
+        }
+        .c1-base-pulse {
+            animation: c1Base 2.50s ease-in-out infinite;
+            animation-play-state: running;
+        }
+        .c1-data-flow {
+            stroke-dasharray: 18 140;
+            animation: c1Flow 3.00s linear infinite;
+            animation-play-state: running;
+        }
+        .c1-cursor {
+            animation: c1Blink 1.20s steps(2) infinite;
+            animation-play-state: running;
+        }
+        @keyframes c1Float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-5px); }
+        }
+        @keyframes c1Roof {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-4px); }
+        }
+        @keyframes c1Base {
+            0%, 100% { opacity: 0.85; filter: url(#neon-amber-0); }
+            50% { opacity: 1; stroke-width: 4.5px; }
+        }
+        @keyframes c1Flow {
+            0% { stroke-dashoffset: 158; }
+            100% { stroke-dashoffset: 0; }
+        }
+        @keyframes c1Blink {
+            0% { opacity: 1; }
+            100% { opacity: 0.15; }
+        }
+    </style>
+    
+    <rect width="260" height="260" rx="16" fill="#0a0f18"/>
+    <rect width="260" height="260" rx="16" fill="url(#bg-glow-0)"/>
+    <rect width="260" height="260" rx="16" fill="url(#iso-grid-0)"/>
+
+    <!-- Glowing Amber Isometric Pedestal (Signature from current avatar) -->
+    <g class="c1-base-pulse">
+        <polygon points="130,224 72,190 130,156 188,190" fill="none" stroke="#ffb300" stroke-width="2" stroke-opacity="0.35" transform="translate(0, 6)"/>
+        <polygon points="130,220 76,188 130,156 184,188" fill="#ffb300" fill-opacity="0.08" stroke="#ffb300" stroke-width="3.5" stroke-linejoin="round"/>
+    </g>
+
+    <!-- Main Isometric House Structure -->
+    <g class="c1-float">
+        <!-- Back Isometric Wireframe Edges (Subtle depth) -->
+        <g stroke="#00e5ff" stroke-width="1.2" stroke-opacity="0.25" stroke-dasharray="3 3" fill="none">
+            <line x1="130" y1="88" x2="130" y2="152"/>
+            <line x1="82" y1="116" x2="130" y2="88"/>
+            <line x1="178" y1="116" x2="130" y2="88"/>
+        </g>
+
+        <!-- Left Wall -->
+        <polygon points="82,116 130,144 130,204 82,176" fill="#00e5ff" fill-opacity="0.05" stroke="#00e5ff" stroke-width="2.5" stroke-linejoin="round" filter="url(#neon-cyan-0)"/>
+        
+        <!-- Left Wall Window / Localization Grid -->
+        <polygon points="94,138 118,152 118,176 94,162" fill="#00e5ff" fill-opacity="0.08" stroke="#00e5ff" stroke-width="1.6" stroke-linejoin="round"/>
+        <line x1="106" y1="145" x2="106" y2="169" stroke="#00e5ff" stroke-width="1.2" stroke-opacity="0.7"/>
+        <line x1="94" y1="150" x2="118" y2="164" stroke="#00e5ff" stroke-width="1.2" stroke-opacity="0.7"/>
+
+        <!-- Right Wall (Terminal / Code Panel) -->
+        <polygon points="130,144 178,116 178,176 130,204" fill="#00e5ff" fill-opacity="0.09" stroke="#00e5ff" stroke-width="2.5" stroke-linejoin="round" filter="url(#neon-cyan-0)"/>
+        
+        <!-- Terminal Screen on Right Wall (Isometric Skew) -->
+        <polygon points="139,151 170,133 170,164 139,182" fill="#0a0f18" fill-opacity="0.85" stroke="#00e5ff" stroke-width="1.5" stroke-linejoin="round"/>
+        <!-- Isometric < /> Code Symbol inside Right Panel -->
+        <g transform="translate(154, 158) skewY(-30)" stroke="#ffb300" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+            <polyline points="-6,-4 -10,0 -6,4"/>
+            <line x1="-2" y1="5" x2="2" y2="-5" stroke="#00e5ff"/>
+            <polyline points="6,-4 10,0 6,4" class="c1-cursor"/>
+        </g>
+
+        <!-- Roof Structure (Levitating slightly) -->
+        <g class="c1-roof" filter="url(#neon-cyan-0)">
+            <!-- Left Front Roof Facet -->
+            <polygon points="130,52 82,116 130,144" fill="#00e5ff" fill-opacity="0.12" stroke="#00e5ff" stroke-width="2.5" stroke-linejoin="round"/>
+            <!-- Right Front Roof Facet -->
+            <polygon points="130,52 178,116 130,144" fill="#00e5ff" fill-opacity="0.06" stroke="#00e5ff" stroke-width="2.5" stroke-linejoin="round"/>
+            <!-- Inner Isometric Floor of Roof -->
+            <polyline points="82,116 130,92 178,116" fill="none" stroke="#00e5ff" stroke-width="1.2" stroke-opacity="0.45"/>
+            <line x1="130" y1="52" x2="130" y2="92" stroke="#00e5ff" stroke-width="1.2" stroke-opacity="0.45"/>
+            <!-- Glowing Apex Node -->
+            <circle cx="130" cy="52" r="3.5" fill="#ffb300" filter="url(#neon-amber-0)"/>
+        </g>
+
+        <!-- Animated High-Energy Data Pulse Traveling Around Edges -->
+        <polygon points="130,52 178,116 178,176 130,204 82,176 82,116" fill="none" stroke="#ffb300" stroke-width="3" stroke-linecap="round" class="c1-data-flow" filter="url(#neon-amber-0)"/>
+    </g>
+</svg>

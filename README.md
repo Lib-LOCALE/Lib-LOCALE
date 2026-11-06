@@ -1,143 +1,101 @@
 <div align="center">
 
+<sub>BORDEAUX, FRANCE &nbsp; / &nbsp; LIB-LOCALE</sub>
+
 # Anthony Blanchard
 
-#### QA Analyst · Application Support · Front-End Developer
+### Des outils utiles. Des interfaces soignées.<br>Une attention aux détails, dans chaque langue.
 
-`📍 Bordeaux, France`
+QA & test applicatif · Support utilisateur · Développement front-end
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anthony--blanchard-008C87?style=flat-square&logo=netlify&logoColor=white)](https://anthony-blanchard-portfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Lib--LOCALE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lib-LOCALE)
+[**Voir mon portfolio ↗**](https://anthony-blanchard-portfolio.netlify.app/) &nbsp; · &nbsp; [Explorer mes projets](https://github.com/Lib-LOCALE?tab=repositories)
 
-**🇫🇷 Français · 🇬🇧 English (voir plus bas / see below)**
+<br>
+
+![Svelte](https://img.shields.io/badge/Svelte-20252B?style=flat-square&logo=svelte&logoColor=FF6B45)
+![TypeScript](https://img.shields.io/badge/TypeScript-20252B?style=flat-square&logo=typescript&logoColor=6AAEFF)
+![Tauri](https://img.shields.io/badge/Tauri-20252B?style=flat-square&logo=tauri&logoColor=24C8DB)
+![Rust](https://img.shields.io/badge/Rust-20252B?style=flat-square&logo=rust&logoColor=E8DCC8)
+![SQLite](https://img.shields.io/badge/SQLite-20252B?style=flat-square&logo=sqlite&logoColor=80C7E8)
 
 </div>
 
----
+<br>
 
-## 🇫🇷 Français
+Je conçois des applications **web et desktop multilingues**, avec le même souci du détail pour l'interface, les tests et la documentation. Mon parcours relie la QA, le support applicatif et le développement : comprendre un problème, le reproduire, puis améliorer l'expérience.
 
-Je conçois et maintiens des outils **desktop et web multilingues**, avec une attention forte portée à la fiabilité, à l'ergonomie et à une documentation claire.
+## Une sélection de mes projets
 
-Mon parcours combine **test applicatif, support utilisateur, qualification d'anomalies et développement front-end**. Je m'intéresse particulièrement aux outils qui rendent les logiciels plus simples à utiliser, quelles que soient la langue et la plateforme.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Lib-LOCALE/TomatoTask">TomatoTask ↗</a></h3>
+<p>La concentration prend des couleurs.</p>
+<a href="https://github.com/Lib-LOCALE/TomatoTask"><img src="https://raw.githubusercontent.com/Lib-LOCALE/TomatoTask/main/.github/images/timer.png" alt="TomatoTask : minuteur Pomodoro, tâches et fresque de carreaux illustrés." width="100%"></a>
+<p>Un minuteur Pomodoro et un gestionnaire de tâches où chaque session terminée peint un carreau. Données locales, cinq langues, Windows et Linux.</p>
+<p><sub>Svelte · TypeScript · Tauri · SQLite</sub></p>
+<p><a href="https://github.com/Lib-LOCALE/TomatoTask"><b>Le code</b></a> &nbsp; · &nbsp; <a href="https://github.com/Lib-LOCALE/TomatoTask/releases/latest">Télécharger</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Lib-LOCALE/FMToolsV2">FMToolsV2 ↗</a></h3>
+<p>Mieux comprendre son équipe.</p>
+<a href="https://github.com/Lib-LOCALE/FMToolsV2"><img src="https://raw.githubusercontent.com/Lib-LOCALE/FMToolsV2/main/screenshots/home_en.png" alt="FMToolsV2 : tableau de bord d'analyse des joueurs, du staff et des infrastructures." width="100%"></a>
+<p>Des outils d'analyse pour Football Manager : joueurs, staff, rapports et infrastructures. Interface et documentation multilingues, Windows et Linux.</p>
+<p><sub>Svelte · TypeScript · Tauri · Rust</sub></p>
+<p><a href="https://github.com/Lib-LOCALE/FMToolsV2"><b>Le code</b></a> &nbsp; · &nbsp; <a href="https://github.com/Lib-LOCALE/FMToolsV2/releases/latest">Télécharger</a></p>
+</td>
+</tr>
+</table>
 
-### Compétences clés
+<details>
+<summary><b>Au laboratoire — NewGAN Manager 26</b></summary>
 
-- **QA & test applicatif** — validation fonctionnelle, suivi d'anomalies, scénarios de test, retours utilisateurs
-- **Développement front-end** — Svelte, TypeScript, Vite, Tailwind CSS
-- **Applications desktop** — Tauri, Rust, livraisons Windows & Linux
-- **Internationalisation** — interface multilingue, documentation localisée, workflows de traduction
-- **Rigueur d'ingénierie** — Git, README structurés, notes de version, checksums, GitHub Actions
+<br>
 
-### Stack
+Une réécriture expérimentale de NewGAN Manager avec **Tauri et Svelte**, pour Football Manager 26.
 
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**Projet en pause** : les changements du processus d'export de FM 26 bloquent l'extraction des identifiants de joueurs.
 
-### Projets phares
+[Explorer le dépôt ↗](https://github.com/Lib-LOCALE/NewGAN-Manager-26)
 
-<a href="https://github.com/Lib-LOCALE/FMToolsV2">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=FMToolsV2&theme=dark&hide_border=true&bg_color=00000000&icon_color=008C87&title_color=008C87" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=FMToolsV2&hide_border=true&bg_color=00000000&icon_color=008C87&title_color=008C87" alt="FMToolsV2" />
-  </picture>
-</a>
+</details>
 
-- Application desktop d'analyse pour Football Manager, disponible en plusieurs langues européennes
-- Construite avec **Svelte, TypeScript et Tauri** — livraisons Windows & Linux
-- Interface et documentation multilingues
-- Releases vérifiables : checksums SHA256 et attestations de provenance GitHub
+## Du premier bug à la dernière traduction
 
-<a href="https://github.com/Lib-LOCALE/TomatoTask">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=TomatoTask&theme=dark&hide_border=true&bg_color=00000000&icon_color=008C87&title_color=008C87" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=TomatoTask&hide_border=true&bg_color=00000000&icon_color=008C87&title_color=008C87" alt="TomatoTask" />
-  </picture>
-</a>
+| Tester & comprendre | Construire & livrer |
+| :--- | :--- |
+| Validation fonctionnelle et scénarios de test | Interfaces avec Svelte, TypeScript, Vite et Tailwind CSS |
+| Reproduction et qualification des anomalies | Applications desktop avec Tauri, Rust et SQLite |
+| Support applicatif et retours utilisateurs | Livraisons Windows et Linux avec GitHub Actions |
+| Documentation claire et accompagnement | Internationalisation des interfaces et des guides |
 
-- Minuteur Pomodoro et gestionnaire de tâches multiplateforme, axé sur la productivité locale
-- Construit avec **Svelte, TypeScript, Tauri et SQLite**
-- Gestion de tâches, statistiques, thèmes, raccourcis et notifications natives
-- Signaux de qualité : changelog, guide de contribution, politique de sécurité, linting, tests et CI
+## Travaillons ensemble
 
-<a href="https://github.com/Lib-LOCALE/NewGAN-Manager-26">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=NewGAN-Manager-26&theme=dark&hide_border=true&bg_color=00000000&icon_color=008C87&title_color=008C87" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lib-LOCALE&repo=NewGAN-Manager-26&hide_border=true&bg_color=00000000&icon_color=008C87&title_color=008C87" alt="NewGAN Manager 26" />
-  </picture>
-</a>
+Je recherche un poste en **QA, support applicatif ou développement front-end**, pour contribuer à des logiciels fiables et agréables à utiliser.
 
-- Réécriture expérimentale (Tauri/Svelte) de NewGAN Manager pour Football Manager 26
-- UI desktop moderne et packaging multiplateforme, interface et documentation multilingues
-- En pause : FM 26 a modifié le workflow d'export nécessaire à l'extraction des IDs de joueurs
-
-### Ce que je recherche
-
-Des postes autour de la **QA, du support applicatif, du support technique orienté produit ou du développement front-end**, où je peux aider les équipes à tester, documenter, accompagner et améliorer des logiciels destinés aux utilisateurs.
+**[Retrouve mon parcours et mes projets sur mon portfolio ↗](https://anthony-blanchard-portfolio.netlify.app/)**
 
 ---
 
 <details>
-<summary><b>🇬🇧 English</b></summary>
+<summary><b>English version</b></summary>
 
-I build and maintain **multilingual desktop and web tools**, with a strong focus on reliability, usability, and clear documentation.
+<br>
 
-My background combines **application testing, user support, issue qualification, and front-end development**. I am especially interested in tools that make software easier to use across languages and platforms.
+### Hi, I'm Anthony.
 
-### Core Skills
+Based in Bordeaux, France, I build **multilingual web and desktop applications**. My background brings together QA, application support and front-end development, with a focus on usability, reliability and clear documentation.
 
-- **QA & application testing** — functional validation, anomaly tracking, test scenarios, user feedback
-- **Front-end development** — Svelte, TypeScript, Vite, Tailwind CSS
-- **Desktop applications** — Tauri, Rust, Windows & Linux releases
-- **Internationalization** — multilingual UI, localized documentation, translation workflows
-- **Engineering hygiene** — Git, structured READMEs, release notes, checksums, GitHub Actions
+**Selected work**
 
-### Featured Projects
+- **[TomatoTask](https://github.com/Lib-LOCALE/TomatoTask)** — A local-first Pomodoro timer and task manager. Each completed session paints a tile in a growing fresco. Five languages, Windows and Linux.
+- **[FMToolsV2](https://github.com/Lib-LOCALE/FMToolsV2)** — Desktop tools for Football Manager: player and staff analysis, reports and club infrastructure, with multilingual UI and documentation.
+- **[NewGAN Manager 26](https://github.com/Lib-LOCALE/NewGAN-Manager-26)** — An experimental Tauri/Svelte rewrite, paused following changes to FM 26's player-ID export workflow.
 
-**[FMToolsV2](https://github.com/Lib-LOCALE/FMToolsV2)**
+**What I work with:** Svelte, TypeScript, Tauri, Rust, SQLite, Vite, Tailwind CSS and GitHub Actions.
 
-- Desktop application for Football Manager analysis, available in several European languages
-- Built with **Svelte, TypeScript, and Tauri** — cross-platform Windows & Linux releases
-- Multilingual interface and documentation
-- Verifiable releases: SHA256 checksums and GitHub provenance attestations
+I am looking for opportunities in **QA, application support or front-end development**.
 
-**[TomatoTask](https://github.com/Lib-LOCALE/TomatoTask)**
-
-- Cross-platform Pomodoro timer and task manager focused on local productivity
-- Built with **Svelte, TypeScript, Tauri, and SQLite**
-- Task management, statistics, themes, shortcuts, and native notifications
-- Quality signals: changelog, contributing guide, security policy, linting, tests, and CI
-
-**[NewGAN-Manager-26](https://github.com/Lib-LOCALE/NewGAN-Manager-26)**
-
-- Experimental Tauri/Svelte rewrite of NewGAN Manager for Football Manager 26
-- Modern desktop UI and cross-platform packaging, multilingual interface and documentation
-- Currently paused: FM 26 changed the export workflow required to extract player IDs
-
-### What I'm Looking For
-
-Roles around **QA, application support, product-facing technical support, or front-end development**, where I can help teams test, document, support, and improve user-facing software.
+[My portfolio ↗](https://anthony-blanchard-portfolio.netlify.app/)
 
 </details>
-
----
-
-<div align="center">
-
-### 📊 Langages
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lib-LOCALE&layout=compact&hide_border=true&bg_color=00000000&theme=dark&title_color=008C87" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lib-LOCALE&layout=compact&hide_border=true&bg_color=00000000&title_color=008C87" alt="Top Languages" />
-</picture>
-
-<sub>Merci d'être passé · Thanks for stopping by</sub>
-
-</div>

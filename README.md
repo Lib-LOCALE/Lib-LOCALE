@@ -18,10 +18,11 @@ QA & test applicatif · Support utilisateur · Développement front-end
 
 ![Svelte](https://img.shields.io/badge/Svelte-20252B?style=flat-square&logo=svelte&logoColor=FF6B45)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20252B?style=flat-square&logo=typescript&logoColor=6AAEFF)
-![Tauri](https://img.shields.io/badge/Tauri-20252B?style=flat-square&logo=tauri&logoColor=24C8DB)
 ![Rust](https://img.shields.io/badge/Rust-20252B?style=flat-square&logo=rust&logoColor=E8DCC8)
 ![Slint](https://img.shields.io/badge/Slint-20252B?style=flat-square&logo=slint&logoColor=A6A6FF)
+![Tauri](https://img.shields.io/badge/Tauri-20252B?style=flat-square&logo=tauri&logoColor=24C8DB)
 ![SQLite](https://img.shields.io/badge/SQLite-20252B?style=flat-square&logo=sqlite&logoColor=80C7E8)
+![Godot](https://img.shields.io/badge/Godot-20252B?style=flat-square&logo=godotengine&logoColor=478CBF)
 
 </div>
 
